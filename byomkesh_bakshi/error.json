@@ -1,7 +1,7 @@
 {
   "values": [{
       "from": "NameError",
-      "to": "NaamNahiHaiError"
+      "to": "NaamNahiHaiError:yeh naam sahi nhi hai isme aapne name sahi se define  nhi kiya hai "
     },
     {
       "from": "name",
@@ -9,7 +9,7 @@
     },
     {
       "from": "is not defined",
-      "to": "define nahi hai"
+      "to": "defined nahi hai"
     },
     {
       "from": "unexpected indent",
