@@ -4,12 +4,12 @@
       "to": "NaamNahiHaiError:yeh naam sahi nhi hai isme aapne name sahi se define  nhi kiya hai "
     },
     {
-      "from": "name",
-      "to": "naam"
-    },
-    {
       "from": "is not defined",
       "to": "defined nahi hai"
+    },
+		{
+      "from": "Missing parentheses",
+      "to": "aapne parentheses ka use nahi kiya hai python 3 parentheses ke bina print nahi karta hai"
     },
     {
       "from": "unexpected indent",
